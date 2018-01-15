@@ -20,6 +20,10 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
         //hay que indicar que imagepicker va a responder al delegado
         imagepiker.delegate = self
         
+        //ERORR
+        asjdnaksjdnasç
+        //ERROR
+        
     }
 
     override func didReceiveMemoryWarning(){
